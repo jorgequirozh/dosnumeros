@@ -14,7 +14,7 @@ int main()
     for(i=1;i<sum;i=i+1){
     number1=i;
     number2=sum-number1;
-    printf("%d y %d \n",number1,number2);
+    printf("%d and %d \n",number1,number2);
     }
     return 0;
 }
